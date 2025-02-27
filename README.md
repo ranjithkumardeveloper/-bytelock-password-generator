@@ -6,9 +6,8 @@ Bytelock is a secure and customizable random password generator built with React
 
 ### UI Preview  
 ![Reference 1](https://github.com/ranjithkumardeveloper/-bytelock-password-generator/blob/main/src/docs/reference1.png)  
-![Reference 2](docs/reference2.png)  
-
-![Reference 3](docs/reference3.png)  
+![Reference 2](https://github.com/ranjithkumardeveloper/-bytelock-password-generator/blob/main/src/docs/reference2.png)  
+![Reference 3](https://github.com/ranjithkumardeveloper/-bytelock-password-generator/blob/main/src/docs/reference3.png) 
 
 ## Features  
 ✅ Strong password generation  
