@@ -1,3 +1,23 @@
+# Bytelock - Random Password Generator
+
+Bytelock is a secure and customizable random password generator built with React.js and Tailwind CSS.
+
+## Project Reference Images
+
+### UI Preview  
+![Reference 1](docs/reference1.png)  
+
+![Reference 2](docs/reference2.png)  
+
+![Reference 3](docs/reference3.png)  
+
+## Features  
+✅ Strong password generation  
+✅ Customizable length & character types  
+✅ Copy to clipboard functionality  
+✅ User-friendly UI with Tailwind CSS  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
