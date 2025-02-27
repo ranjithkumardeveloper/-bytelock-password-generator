@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+
+// components
+import Navbar from "./component/Navbar";
+import HeroSection from "./component/HeroSection";
+import PasswordGenerate from "./component/PasswordGenerate";
+import Strong from "./component/Strong";
+import WhatIsStrongPassword from "./component/WhatIsStrongPassword";
+import UniqueStrongPassword from "./component/UniqueStrongPassword";
+import StrongPasswordHacked from "./component/StrongPasswordHacked";
+import WhyUsePasswordGenerator from "./component/WhyUsePasswordGenerator";
+import Footer from "./component/Footer";
+import FAQSection from "./component/FAQSection";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <HeroSection />
+      <PasswordGenerate />
+      <Strong />
+      <WhatIsStrongPassword />
+      <UniqueStrongPassword />
+      <StrongPasswordHacked />
+      <WhyUsePasswordGenerator />
+      <FAQSection />
+      <Footer />
+    </>
   );
 }
 
