@@ -1,4 +1,6 @@
-# Live Demo - https://bytelock.vercel.app/
+## Live Demo
+
+You can view a live demo of the project here: [Live Demo](https://bytelock.vercel.app/)
 
 # Bytelock - Random Password Generator
 
